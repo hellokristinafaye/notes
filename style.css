@@ -21,3 +21,7 @@
 .container h1 img {
     width: 60px;
 }
+.container button img {
+    width: 25px;
+    margin-right: 8px;
+}
